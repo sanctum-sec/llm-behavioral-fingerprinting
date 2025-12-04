@@ -199,9 +199,9 @@ experiments/000-deepseek-code-generation-fingerprinting/
 
 ## Reports
 
-- [LLM Behavioral Fingerprinting Report](../../reports/llm-behavioral-fingerprinting-report.md) - Summary
-- [Full Report with Appendices](../../reports/llm-behavioral-fingerprinting-full-report.md) - Comprehensive
-- [Multi-Actor Compromise Analysis](../../reports/deepseek-compromised-roommates-analysis.md) - "Unwitting Roommates"
+- [Summary Report](../../reports/peking-duck-paradox/summary.md)
+- [Full Report with Appendices](../../reports/peking-duck-paradox/full-report.md)
+- [Unwitting Roommates Analysis](../../reports/peking-duck-paradox/unwitting-roommates.md)
 
 ## Implications
 

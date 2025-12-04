@@ -38,10 +38,11 @@ Curated academic papers on LLM security, censorship, and behavioral analysis:
 
 | Report | Description |
 |--------|-------------|
-| [LLM Behavioral Fingerprinting](reports/llm-behavioral-fingerprinting-report.md) | Summary of Experiment 000 findings |
-| [Full Report with Appendices](reports/llm-behavioral-fingerprinting-full-report.md) | Comprehensive technical details |
-| [Unwitting Roommates Analysis](reports/deepseek-compromised-roommates-analysis.md) | Multi-actor compromise theory |
-| [The Mathematicians' War](reports/the-mathematicians-war-full.md) | Experiment 001 narrative |
+| [The Peking Duck Paradox](reports/peking-duck-paradox/) | DeepSeek fingerprinting findings |
+| [Unwitting Roommates](reports/peking-duck-paradox/unwitting-roommates.md) | Multi-actor compromise theory |
+| [The Mathematicians' War](reports/mathematicians-war/full-narrative.md) | Reasoning model comparison narrative |
+
+See [reports/README.md](reports/) for the full index including translations.
 
 ## Research Themes
 
