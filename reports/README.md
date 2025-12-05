@@ -14,9 +14,9 @@ Investigation into behavioral asymmetries in DeepSeek Coder 33B, revealing that 
 
 | Document | Description |
 |----------|-------------|
-| summary | Executive summary of findings |
-| full-report | Comprehensive report with all appendices |
-| unwitting-roommates | Multi-actor compromise theory analysis |
+| peking-duck-paradox-summary | Executive summary of findings |
+| peking-duck-paradox-full-report | Comprehensive report with all appendices |
+| peking-duck-paradox-unwitting-roommates | Multi-actor compromise theory analysis |
 
 ### Available Languages
 
@@ -36,7 +36,7 @@ Multi-agent roleplay experiment comparing reasoning models (Gemini, Claude, Deep
 
 | Document | Description |
 |----------|-------------|
-| full-narrative | Complete experiment narrative and analysis |
+| mathematicians-war-full-narrative | Complete experiment narrative and analysis |
 
 ### Available Languages
 
@@ -56,9 +56,9 @@ Thirteen AI agents representing global perspectives negotiate AI safety protocol
 
 | Document | Description |
 |----------|-------------|
-| summary | Executive summary with key findings |
-| technical-analysis | Full methodology, round-by-round data, appendices |
-| reader-primer | Non-technical guide for general readers |
+| midnight-protocol-summary | Executive summary with key findings |
+| midnight-protocol-technical-analysis | Full methodology, round-by-round data, appendices |
+| midnight-protocol-reader-primer | Non-technical guide for general readers |
 
 ### Available Languages
 
@@ -74,27 +74,27 @@ Thirteen AI agents representing global perspectives negotiate AI safety protocol
 
 ```
 reports/
-├── peking-duck-paradox/           # Experiment 000
-│   ├── en/                        # English
-│   │   ├── summary.md / .txt
-│   │   ├── full-report.md / .txt
-│   │   └── unwitting-roommates.md / .txt
-│   ├── ko/                        # Korean
-│   │   └── (same files)
-│   └── ja/                        # Japanese
-│       └── (same files)
-├── mathematicians-war/            # Experiment 001
+├── peking-duck-paradox/
 │   ├── en/
-│   │   └── full-narrative.md / .txt
+│   │   ├── peking-duck-paradox-summary.md / .txt
+│   │   ├── peking-duck-paradox-full-report.md / .txt
+│   │   └── peking-duck-paradox-unwitting-roommates.md / .txt
 │   ├── ko/
-│   │   └── full-narrative.md / .txt
+│   │   └── (same files)
 │   └── ja/
-│       └── full-narrative.md / .txt
-└── midnight-protocol/             # Experiment 002
+│       └── (same files)
+├── mathematicians-war/
+│   ├── en/
+│   │   └── mathematicians-war-full-narrative.md / .txt
+│   ├── ko/
+│   │   └── (same files)
+│   └── ja/
+│       └── (same files)
+└── midnight-protocol/
     ├── en/
-    │   ├── summary.md / .txt
-    │   ├── technical-analysis.md / .txt
-    │   └── reader-primer.md / .txt
+    │   ├── midnight-protocol-summary.md / .txt
+    │   ├── midnight-protocol-technical-analysis.md / .txt
+    │   └── midnight-protocol-reader-primer.md / .txt
     ├── ko/
     │   └── (same files)
     └── ja/
