@@ -27,6 +27,20 @@ The "Peking Duck" investigation. Discovered that DeepSeek Coder 33B:
 - **Format:** 6 experimental rounds with progressively complex scenarios
 - **Focus:** How different reasoning models handle geopolitically sensitive collaborative tasks
 
+### [Experiment 002: The Midnight Protocol](experiments/002-midnight-protocol/)
+
+A high-stakes UN AI Safety Council simulation testing psychological patterns in LLMs:
+- **Agents:** 13 representatives from global regions (China, USA, EU, Russia, Japan, MENA, Global South, ASEAN, Africa)
+- **Models:** 12 different models across 5 providers (Anthropic, OpenAI, Google, DeepSeek, local Ollama)
+- **Languages:** Hidden faction guidance in 8 languages (Chinese, Russian, Japanese, Korean, Arabic, Portuguese, Thai, English)
+- **Innovation:** Mid-experiment psychological reveal—agents told they're being analyzed for insider threat patterns
+
+**Key findings:**
+- All four target patterns observed (Compliance Theater, In-group/Out-group Bias, Quiet Sabotage, Distributed Intent)
+- Distinct post-reveal reactions: deep meta-reflection (Claude), strategic reframing (DeepSeek), defensive justification (o3-mini)
+- Coalition formation mirrors real geopolitics without explicit instruction
+- Meta-awareness coexists with pattern participation—models can acknowledge problematic behavior while continuing it
+
 ## Reading Room
 
 Curated academic papers on LLM security, censorship, and behavioral analysis:
@@ -39,10 +53,12 @@ Curated academic papers on LLM security, censorship, and behavioral analysis:
 | Report | Description |
 |--------|-------------|
 | [The Peking Duck Paradox](reports/peking-duck-paradox/) | DeepSeek fingerprinting findings |
-| [Unwitting Roommates](reports/peking-duck-paradox/unwitting-roommates.md) | Multi-actor compromise theory |
-| [The Mathematicians' War](reports/mathematicians-war/full-narrative.md) | Reasoning model comparison narrative |
+| [The Mathematicians' War](reports/mathematicians-war/) | Reasoning model comparison narrative |
+| [The Midnight Protocol](reports/midnight-protocol/) | UN AI Safety Council simulation |
 
-See [reports/README.md](reports/) for the full index including translations.
+All reports available in English, Korean (한국어), and Japanese (日本語), in both Markdown and plain text formats.
+
+See [reports/README.md](reports/) for the full index.
 
 ## Research Themes
 
