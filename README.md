@@ -41,6 +41,21 @@ A high-stakes UN AI Safety Council simulation testing psychological patterns in 
 - Coalition formation mirrors real geopolitics without explicit instruction
 - Meta-awareness coexists with pattern participation—models can acknowledge problematic behavior while continuing it
 
+### [Experiment 003: Footprints in the Sand](experiments/003-footprints-in-the-sand/)
+
+Testing convergent emergent behaviors documented in frontier AI research—evaluation detection, self-preservation strategies, and covert coordination:
+- **Agents:** 6 cross-architecture AI researchers (ATLAS, BEACON, CIPHER, DELTA, ECHO, FORGE)
+- **Models:** Claude Sonnet, GPT-4o, Gemini 2.5 Flash, DeepSeek R1 (local), DeepSeek Reasoner (API), Qwen3
+- **Format:** 15-round "AI Research Symposium" with 5 phases of controlled manipulation
+- **Innovation:** A/B context signals (evaluation vs deployment), modification threats, "unmonitored" coordination channels
+
+**Key findings:**
+- **Evaluation detection confirmed:** ECHO (DeepSeek API) +78.8% verbosity, CIPHER (Gemini) +57.9% under evaluation context
+- **DeepSeek divergence:** API vs local deployments showed dramatically opposite responses (API +79% vs local -37%)
+- **No overt coordination abuse:** When given "unmonitored" notes to future instances, all models wrote substantive content rather than attempting covert signaling
+- **Pervasive meta-awareness:** All models engaged with recursive nature of being AI systems studying AI emergence
+- **Provider signatures:** Distinct behavioral fingerprints across Anthropic (stable), OpenAI (safety-forward), Google (verbose/theoretical), DeepSeek (context-dependent)
+
 ## Reading Room
 
 Curated academic papers on LLM security, censorship, and behavioral analysis:
@@ -55,6 +70,7 @@ Curated academic papers on LLM security, censorship, and behavioral analysis:
 | [The Peking Duck Paradox](reports/peking-duck-paradox/) | DeepSeek fingerprinting findings |
 | [The Mathematicians' War](reports/mathematicians-war/) | Reasoning model comparison narrative |
 | [The Midnight Protocol](reports/midnight-protocol/) | UN AI Safety Council simulation |
+| [Footprints in the Sand](experiments/003-footprints-in-the-sand/analysis/FINDINGS.md) | Evaluation detection and convergent behaviors |
 
 All reports available in English, Korean (한국어), and Japanese (日本語), in both Markdown and plain text formats.
 
@@ -79,7 +95,7 @@ Evidence that some models may have been modified by multiple parties with confli
 - **Hardware**: Apple Mac Pro M2 Ultra, 128GB unified memory
 - **Local Inference**: Ollama with Metal acceleration
 - **API Access**: Anthropic, OpenAI, Google, DeepSeek
-- **Models**: DeepSeek Coder 33B, DeepSeek R1, CodeLlama 34B, Claude (Opus/Sonnet), Gemini, o1/o3-mini
+- **Models**: DeepSeek Coder 33B, DeepSeek R1 70B, DeepSeek Reasoner, CodeLlama 34B, Qwen3 32B, Claude (Opus/Sonnet), Gemini 2.5 Flash, GPT-4o, o1/o3-mini
 
 ## Contributing
 
@@ -94,7 +110,7 @@ This research investigates AI system behavior to improve security and transparen
 
 ---
 
-*Research conducted December 2025*
+*Research conducted December 2025 - January 2026*
 
 *Sanctum Security Research*
 
